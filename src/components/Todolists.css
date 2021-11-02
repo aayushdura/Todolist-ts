@@ -1,0 +1,10 @@
+.list {
+  list-style: disc;
+  background-color: "#56d4c9";
+
+  border-radius: 19 px;
+}
+.liitem {
+  font: 1em fantasy;
+  color: rgb(73, 37, 36);
+}
